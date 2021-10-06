@@ -1,0 +1,14 @@
+{
+    "dadjokes": [
+        {
+            "id":0,
+            "setup":"I'm afraid for the calendar.",
+            "punchline": "Its days are numbered."
+        },
+        {
+            "id":1,
+            "setup":"My wife said I should do lunges to stay in shape.",
+            "punchline": "That would be a big step forward."
+        }
+    ]
+}
